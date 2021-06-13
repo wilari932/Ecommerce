@@ -1,0 +1,9 @@
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Login.Ecommerce\bin\Debug\netstandard2.1\Login.Ecommerce.deps.json
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Login.Ecommerce\bin\Debug\netstandard2.1\Login.Ecommerce.dll
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Login.Ecommerce\bin\Debug\netstandard2.1\Login.Ecommerce.pdb
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Login.Ecommerce\obj\Debug\netstandard2.1\Login.Ecommerce.AssemblyInfoInputs.cache
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Login.Ecommerce\obj\Debug\netstandard2.1\Login.Ecommerce.AssemblyInfo.cs
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Login.Ecommerce\obj\Debug\netstandard2.1\Login.Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Login.Ecommerce\obj\Debug\netstandard2.1\Login.Ecommerce.dll
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Login.Ecommerce\obj\Debug\netstandard2.1\Login.Ecommerce.pdb
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Login.Ecommerce\obj\Debug\netstandard2.1\Login.Ecommerce.csprojAssemblyReference.cache

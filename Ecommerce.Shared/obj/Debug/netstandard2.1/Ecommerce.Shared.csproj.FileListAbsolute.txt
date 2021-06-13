@@ -1,0 +1,9 @@
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Ecommerce.Shared\bin\Debug\netstandard2.1\Ecommerce.Shared.deps.json
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Ecommerce.Shared\bin\Debug\netstandard2.1\Ecommerce.Shared.dll
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Ecommerce.Shared\bin\Debug\netstandard2.1\Ecommerce.Shared.pdb
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Ecommerce.Shared\obj\Debug\netstandard2.1\Ecommerce.Shared.csprojAssemblyReference.cache
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Ecommerce.Shared\obj\Debug\netstandard2.1\Ecommerce.Shared.AssemblyInfoInputs.cache
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Ecommerce.Shared\obj\Debug\netstandard2.1\Ecommerce.Shared.AssemblyInfo.cs
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Ecommerce.Shared\obj\Debug\netstandard2.1\Ecommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Ecommerce.Shared\obj\Debug\netstandard2.1\Ecommerce.Shared.dll
+C:\Users\WilmarArias\source\repos\SuperEcommerce.Solution\Ecommerce.Shared\obj\Debug\netstandard2.1\Ecommerce.Shared.pdb
